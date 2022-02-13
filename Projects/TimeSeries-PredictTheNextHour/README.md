@@ -12,4 +12,4 @@ The RMSE metric on the test set should not be more than 48.
 # Data description
 The data is stored in file `taxi.csv.` The number of orders is in the 'num_orders' column.
 
-[Please click here to view the code in JupyterNB]()
+
